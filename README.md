@@ -1,0 +1,115 @@
+# EVERGLOW – SLAY
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+SLAY
+Yeah Yeah OK
+Get out your seats now
+저 어둠 So damn dangerous
+무심하게 길을 비켜 All right
+여기 우주 속의 Steady
+깃발 들어 Ready
+Oh oh oh oh
+Makin’ them Makin’ them
+Makin’ them wow
+Oh oh oh oh
+Comin’ in Comin’ in
+Comin’ in Loud
+끝없는 Dark Night
+차차 알게 될 Damage
+Baby, I’m a savage
+Me and my girls
+We about to blow your mind
+Every time
+Yeah yeah 정복해 Here
+Yeah yeah 시작해 Deal
+Further 미지의 세계
+밝혀줄게 Chandelier
+Na na na na na na na
+All my girls slay
+Na na na na na na na
+Eyes on us nobody
+does it better
+Yeah Light it ups all my girls
+feeling on top of the world
+The way we move it side to side
+we shining like
+diamond and pearls
+Na na na na na na na
+We all bout to show you how
+All my girls slay
+Slay Slay Crazy Sexy Cool
+Slay Slay
+We born to break the rules
+Slay Slay We got that attitude
+Slay Slay Everyday
+난 고통의 끝에서 새롭게 살아나
+이것이 나만의 Key (Key)
+저 파멸의 끝에서 뜨겁게 살아가
+이것이 나만의 Free (Free)
+You know that?
+I’m the crown (yeah)
+So don't you
+waste my time (yeah)
+I’m keeping it Real
+I’m keeping it Real
+I’m keeping it’s
+killer tonight
+Me and my girls
+We about to blow your mind
+Every time
+Yeah yeah 정복해 Here
+Yeah yeah 시작해 Deal
+Further 미지의 세계
+밝혀줄게 Chandelier
+Na na na na na na na
+All my girls slay
+Na na na na na na na
+Eyes on us nobody
+does it better
+Yeah Light it ups all my girls
+feeling on top of the world
+The way we move it side to side
+we shining like
+diamond and pearls
+Na na na na na na na
+We all bout to show you how
+All my girls slay
+Slay Slay Crazy Sexy Cool
+Slay Slay
+We born to break the rules
+Slay Slay We got that attitude
+Slay Slay
+Find me 짙은 안개 속
+난 알아 이것이 곧 Good thing
+난 원해 Time for the chance
+나만의 Pace
+더 높이 올라가고 싶어
+멀리 날도록
+Gotta go, I’m doing what I want
+I’m never gonna stop
+내가 꿈꾼 세계
+Slay (yeah)
+Slay (yeah)
+Slay (yeah)
+We came here to SLAY
+Na na na na na na na
+All my girls slay
+Na na na na na na na
+Eyes on us nobody
+does it better
+Yeah Light it ups all my girls
+feeling on top of the world
+The way we move it side to side
+we shining like
+diamond and pearls
+Na na na na na na na
+We all bout to show you how
+All my girls slay
+Slay Slay Crazy Sexy Cool
+Slay Slay
+We born to break the rules
+Slay Slay We got that attitude
+Slay Slay Everyday
+```
