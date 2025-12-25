@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SLAY",
+  "base_artist": "EVERGLOW",
+  "createdAt": "2025-12-25T13:23:48.623545Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SLAY (feat. Quavo)",
+      "artist": "YG feat. Quavo",
+      "has_synced": true,
+      "path": "select/01_SLAY_(feat._Quavo)_YG_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slay (Feat. Quavo)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/02_Slay_(Feat._Quavo)_YG.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slay Slay",
+      "artist": "CH!PZ",
+      "has_synced": false,
+      "path": "select/03_Slay_Slay_CH!PZ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Ma (feat. Juelz Santana Freekey Zekey and Kay Slay)",
+      "artist": "Cam’ron",
+      "has_synced": true,
+      "path": "select/04_Hey_Ma_(feat._Juelz_Santana_Freekey_Zekey_and_Kay_Slay)_Cam’ron.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Ma (feat. Juelz Santana, Freekey Zekey & Kay Slay)",
+      "artist": "Cam'ron",
+      "has_synced": true,
+      "path": "select/05_Hey_Ma_(feat._Juelz_Santana,_Freekey_Zekey_&_Kay_Slay)_Cam'ron.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Intro (feat. Kay Slay)",
+      "artist": "Cam'ron",
+      "has_synced": true,
+      "path": "select/06_Intro_(feat._Kay_Slay)_Cam'ron.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "On They Slay",
+      "artist": "Atheist",
+      "has_synced": true,
+      "path": "select/07_On_They_Slay_Atheist.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Montego Slay",
+      "artist": "People Under the Stairs",
+      "has_synced": true,
+      "path": "select/08_Montego_Slay_People_Under_the_Stairs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Slay (feat. L1ZY)",
+      "artist": "Big Data feat. L1ZY",
+      "has_synced": false,
+      "path": "select/09_Slay_(feat._L1ZY)_Big_Data_feat._L1ZY.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Slay",
+      "artist": "Big Data Ft. L1ZY",
+      "has_synced": false,
+      "path": "select/10_Slay_Big_Data_Ft._L1ZY.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I SLAY (feat. Nolay)",
+      "artist": "JOYRYDE feat. Nolay",
+      "has_synced": true,
+      "path": "select/11_I_SLAY_(feat._Nolay)_JOYRYDE_feat._Nolay.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I SLAY",
+      "artist": "JOYRYDE",
+      "has_synced": true,
+      "path": "select/12_I_SLAY_JOYRYDE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Enjoy Your Slay",
+      "artist": "ICE NINE KILLS",
+      "has_synced": true,
+      "path": "select/13_Enjoy_Your_Slay_ICE_NINE_KILLS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Enjoy Your Slay",
+      "artist": "Ice Nine Kills feat. Sam Kubrick",
+      "has_synced": true,
+      "path": "select/14_Enjoy_Your_Slay_Ice_Nine_Kills_feat._Sam_Kubrick.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kay Slay (Skit)",
+      "artist": "Ja Rule",
+      "has_synced": true,
+      "path": "select/15_Kay_Slay_(Skit)_Ja_Rule.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SLAY",
+      "artist": "EVERGLOW",
+      "has_synced": false,
+      "path": "select/pl_01_SLAY_EVERGLOW.txt"
+    }
+  ]
+}
